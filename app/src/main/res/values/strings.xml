@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTaskInicio</string>
+    <string name="et_Usuario">Ingrese un usuario</string>
+    <string name="et_pass">Ingrese su contraseña</string>
+    <string name="btn_incio">Iniciar Sesion</string>
+    <string name="txt_welcome">Bienvenido</string>
+</resources>
